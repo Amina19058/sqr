@@ -42,6 +42,7 @@ build:
       - target/main-0.0.1-SNAPSHOT.jar
 ```
 You should have working pipeline that automatically builds your project by now.
+
 4. (optional) Let's add a bit of visuals, open `Readme.md` and then follow these steps:
 - Go to Settings > CI / CD
 - Expand the General pipelines settings section
